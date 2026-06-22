@@ -1,0 +1,25 @@
+{
+  "header": {
+    "websites": "Sites web",
+    "tags": "Tags",
+    "colors": "Couleurs"
+  },
+  "footer": {
+    "mentions": "Mentions Légales",
+    "websites": "Liste des sites web",
+    "tags": "Liste des tags",
+    "colors": "Liste des couleurs"
+  },
+  "single": {
+    "info": "Informations",
+    "elements": "Éléments",
+    "votes": "Votes",
+    "see": "Voir le site"
+  },
+  "search": {
+    "empty": "Aucun site web ne correspond à votre recherche"
+  },
+  "buttons": {
+    "vote": "Voter pour le site"
+  }
+}
