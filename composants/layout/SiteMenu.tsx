@@ -1,4 +1,4 @@
-import { Button, ButtonLink } from "../ui/ButtonLink";
+import { ButtonLink } from "../ui/ButtonLink";
 import Logo from "../ui/Logo";
 
 type SiteMenuType = {
